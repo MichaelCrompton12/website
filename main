@@ -1,2 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+    <style> p1 {font-size: 20px;}
+    p2 {font-size: 20px}
+    p3 {font-size: 20px}</style>
 <h1>Introduction to Wargames</h1>
-<p1>test 2</p1>
+<p1>Wargames are a simulation of an armed conflict or war with the most realism possible from the strategic perspective. Typically with 2 teams against each other in a scenario with the aim to defeat the other team using superior strategy,</p1>
+<h1>How It Works</h1>
+<p2>Typically, the host will give both sides a version of the map. This will have everything from that side on it, including units, fortifications and other structures that side has built. Then, each side will begin to give orders for their units. Once complete, the host will determine the result based on a simulated dice roll and various other factors such as terrain, unit stats, morale, etc.</p2>
+<br>
+<br>
+<p3>After the result of the order is determined, the maps will be updated with any new relevant information, and the result will be told to one or both sides depending on the action.</p3>
+</html>
