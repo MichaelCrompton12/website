@@ -3,7 +3,9 @@
     <style> p1 {font-size: 20px;}
     p2 {font-size: 20px}
     p3 {font-size: 20px}
-    p4 {font-size: 20px}</style>
+    p4 {font-size: 20px}
+    p5 {font-size: 20px}
+    p6 {font-size: 20px</style>
 <h1>Introduction to Wargames</h1>
 <p1>Wargames are a simulation of an armed conflict or war with the most realism possible from the strategic perspective. Typically with 2 teams against each other in a scenario with the aim to defeat the other team using superior strategy,</p1>
 <h1>How It Works</h1>
@@ -14,4 +16,8 @@
 <br>
 <br>
 <p4>While this is the basic setup of a wargame, the exact specifics can change depending on the wargame, but generally it will more-or-less follow the same format.</p4>
+<h1>Orders</h1>
+<p5>When in a wargame, the way that actions will be carried out is through orders. Orders are done by typing out the actions taken and by what unit / units, usually along with an image to show the action and where it is. For example:</p5>
+<h1>insert image</h1>
+<p6>Then, the host will roll a virtual d10 dice, and the result will effect the result of the order. Although rolls will not determine the order, other factors such as the contents of the order, terrain, morale and the enemy force will be taken into consideration before determining the result.</p6>
 </html>
