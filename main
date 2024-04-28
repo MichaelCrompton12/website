@@ -7,7 +7,11 @@
     p5 {font-size: 20px}
     p6 {font-size: 20px}
     p7 {font-size: 20px}
-    p8 {font-size: 20px}</style>
+    p8 {font-size: 20px}
+    p9 {font-size: 20px}
+    p10 {font-size: 20px}
+    p11 {font-size: 20px}
+    p12 {font-size: 20px}</style>
  <h1>Introduction to Wargames</h1>
  <p1>Wargames are a simulation of an armed conflict or war with the most realism possible from the strategic perspective. Typically with 2 teams against each other in a scenario with the aim to defeat the other team using superior strategy,</p1>
  <h1>How It Works</h1>
@@ -25,5 +29,13 @@
  <h1>Unit Stats</h1>
  <p7>Each unit will have its own set of stats, this will include the number of troops, its equipment, and the unit's morale. A typical unit will look something like this.</p7>
  <h1>insert image</h1>
- <p8>These stats will determine what the unit can do, and effect the outcome of its actions.</p8>
+ <p8>These stats will determine what the unit can do, and effect the outcome of its actions. For example, in the image above you can see that it has all its equipment and high morale, this gives it a good chance at succeeding in its actions, especially against units with weaker equipment and lower morale.</p8>
+ <h1>Making your own</h1>
+ <p9>If you are familiar with wargames you may want to host one yourself. For that, first you should make a map. While you can use any software for this, the easist and simplest way is to use Google My Maps. Upon creating a new map, first you should create the borders and territory with the line tool</p9>
+ <h1>insert video</h1>
+ <p10>After creating the territory of the two sides, you can start on the units, which are done by using markers, and giving them a custom icon.</p10>
+ <h1>insert image</h1>
+ <p11>After you're finished creating the map, you can start the game. To change a unit's stats once it takes damage, simply edit the text in the unit's description, while to move units, drag the icon to its new location.</p11>
+ <h1>insert video</h1>
+ <p12>And so we come to the end of this guide to wargames, using this information you should be able to play and host wargames competently.</p12>
  </html>
